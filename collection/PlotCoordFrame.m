@@ -1,4 +1,4 @@
-function [fig] = plotCoordFrame(T, Label)
+function [] = PlotCoordFrame(T, Label, Size)
     % plotHoloLensTopDown - Creates a top-down visualization of HoloLens camera positions
     % 
     % Inputs:
@@ -32,7 +32,7 @@ function [fig] = plotCoordFrame(T, Label)
     t = T(1:3,4);
 
     % Create and scale unit vectors
-    scale = 15;
+    scale = Size;
     x_axis = R * [scale; 0; 0];
     y_axis = R * [0; scale; 0];
     z_axis = R * [0; 0; scale];
