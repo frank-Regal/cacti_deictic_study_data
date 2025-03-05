@@ -1,0 +1,91 @@
+qr_code_to_box_2: header: 
+  seq: 0
+  stamp: 
+    secs: 1741044015
+    nsecs: 933666468
+  frame_id: "qr_code"
+child_frame_id: "box_2"
+transform: 
+  translation: 
+    x: -1.4608403710412863
+    y: 2.5045529303205334
+    z: 0.7936283615295991
+  rotation: 
+    x: 0.0004149286576868624
+    y: -0.0015094361391747339
+    z: 0.025365244833120443
+    w: 0.999677024739144
+qr_code_to_yellow: header: 
+  seq: 0
+  stamp: 
+    secs: 1741044015
+    nsecs: 876578569
+  frame_id: "qr_code"
+child_frame_id: "yellow"
+transform: 
+  translation: 
+    x: -1.4607746003165767
+    y: 1.7200014491860918
+    z: 1.1905269451458864
+  rotation: 
+    x: 0.19362943971706015
+    y: -0.18399952491682778
+    z: -0.6433719213846412
+    w: -0.7178053331285683
+qr_code_to_pink: header: 
+  seq: 0
+  stamp: 
+    secs: 1741044015
+    nsecs: 876578569
+  frame_id: "qr_code"
+child_frame_id: "pink"
+transform: 
+  translation: 
+    x: -1.4765186945723885
+    y: 2.0867776704194503
+    z: 1.0740734775943226
+  rotation: 
+    x: 0.19362943971706015
+    y: -0.18399952491682778
+    z: -0.6433719213846412
+    w: -0.7178053331285683
+pink_to_yellow: header: 
+  seq: 0
+  stamp: 
+    secs: 1741044015
+    nsecs: 876578569
+  frame_id: "pink"
+child_frame_id: "yellow"
+transform: 
+  translation: 
+    x: -0.37075483539286114
+    y: -0.05629026516725033
+    z: -0.08866048461578058
+  rotation: 
+    x: 0.0
+    y: 0.0
+    z: 0.0
+    w: 1.0005201105887411
+pink_to_box_2: header: 
+  seq: 0
+  stamp: 
+    secs: 1741044015
+    nsecs: 876578569
+  frame_id: "pink"
+child_frame_id: "box_2"
+transform: 
+  translation: 
+    x: 0.5018620414898438
+    y: 0.03681939567980663
+    z: -0.02538436992141979
+  rotation: 
+    x: -0.18851946528644714
+    y: 0.1899246344217436
+    z: 0.6249998594171158
+    w: -0.7336786290776133
+t_vec: [-0.37075484 -0.05629027 -0.08866048]
+t_unit: [-0.962145   -0.14607873 -0.23008261]
+v_vec: [ 0.50186204  0.0368194  -0.02538437]
+v_mag: 0.5038507148182757
+b: -0.48240208066122575
+d: 0.14544337522420064
