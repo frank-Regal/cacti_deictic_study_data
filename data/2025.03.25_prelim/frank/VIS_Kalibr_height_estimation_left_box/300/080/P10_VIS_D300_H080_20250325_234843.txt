@@ -1,1 +1,0 @@
-trial, min_dist_cm, min_dist_in, participant_id, participant_height_cm, target_height_cm, standoff_dist_cm, Tqb_x_m, Tqb_y_m, Tqb_z_m, Tpy_x_m, Tpy_y_m, Tpy_z_m, Tpp_x_m, Tpp_y_m, Tpp_z_m
